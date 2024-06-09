@@ -13,7 +13,7 @@ An app to generate and read QR codes.
 - JavaScript
 - BootStrap 5
 
-[Live Demo](http://qr-code-generator-reader.vercel.app/)
+[Live Demo](https://ximosa.github.io/QR-Code-Generator-Reader/))
 
 ## Images
 <img src="images/QR-Code-Generator-Reader.png">
